@@ -20,3 +20,9 @@ int main() {
 
     return 0;
 }
+/*
+**OUTPUT**
+Enter values of number 1 & 2: 4
+8
+Answer = 0.5
+    */
