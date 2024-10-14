@@ -14,6 +14,11 @@ int main(){
     
     }
     catch(int num){
-        cout<<"ERROR: required age: 18, your age: "<<num;
+        cout<<"ERROR: required age: 18, your age:Â "<<num;
         }
 }
+/*
+**OUTPUT**
+enter age: 16
+ERROR: required age: 18, your age:16
+*/
